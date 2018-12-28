@@ -83,7 +83,7 @@ public class ElasticApplicationTests {
     }
 
     /**
-     * SpringBoot的jpa操作
+     * SpringBoot的类似jpa操作
      */
     @Test
     public void testPutPerson(){
